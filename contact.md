@@ -6,6 +6,8 @@ ref: contact
 order: 1
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
+Mail: thuy.ng.ch@gmail.com
+
+Phone: +84 986 243 045
 
 [Go to the Home Page]({{ '/' | absolute_url }})
