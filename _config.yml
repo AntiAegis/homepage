@@ -2,7 +2,7 @@ title: Thuy Nguyen-Chinh
 description:  Computer Vision, Deep Learning
 show_downloads: false
 
-baseurl: "/homepage" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://thuyngch.github.io" # change this to the base hostname & protocol for your site
 
 google_analytics:
