@@ -8,10 +8,4 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll, with social features. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
-
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
-
-Have a look at the Github page for more information.
-
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+I am Thuy Nguyen-Chinh from Ho Chi Minh city, Vietnam. I have recently taken my bachelor degree in Electrical and Electronics Engineering at the Ho Chi Minh city University of Technology. Currently, I am working for companies that apply Deep Learning to solve Computer Vision problems. Besides, I also take part in research group at the university lead by my professor ([Prof. Thuong Le Tien](https://sites.google.com/site/thuongtienle/)). My field of interest is Object Detection, Image Segmentation, Scene Parsing, and Biometrics.
