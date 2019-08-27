@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Resume
 tagline: 
-permalink: /about.html
-ref: about
-order: 0
+permalink: /resume.html
+ref: resume
+order: 3
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Contact
-tagline: See and contact me
+tagline: 
+permalink: /contact.html
 ref: contact
-order: 1
+order: 4
 ---
 
 [1]: http://i.imgur.com/9I6NRUm.png

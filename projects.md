@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Projects
 tagline: 
-permalink: /about.html
-ref: about
-order: 0
+permalink: /projects.html
+ref: projects
+order: 1
 ---
 
 
