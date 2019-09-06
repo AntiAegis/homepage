@@ -7,8 +7,6 @@ ref: projects
 order: 1
 ---
 
-
-------
 ## Object-Detection Network Compression
 *Conducted at Cyber Core when I were a machine-learning engineer*
 * **Time**: Jun 2019 -- now
