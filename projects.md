@@ -7,6 +7,16 @@ ref: projects
 order: 1
 ---
 
+
+------
+## Object-Detection Network Compression
+*Conducted at Cyber Core when I were a machine-learning engineer*
+* **Time**: Jun 2019 -- now
+* **Role**: Member of a team of 6 members, in which, I were responsible for reading and implementing recent papers.
+* **Description**: We have researched techniques to compress a powerful network to a tiny one with 8% of the original GFLOPs without sacrificing the original accuracy. This project is a contract between Cyber Core and Toyota Research Institute Advanced Development for building a module in autonomous cars.
+* **Result**: Network architecture was designed that meets two criteria of GFLOPs and accuracy. A final quantization step is being conducted.
+
+------
 ## Image Forgery Classification and Segmentation: A Unified Deep-Learning Approach
 *Bachelor thesis*
 * **Time**: Jan 2019 – Jun 2019

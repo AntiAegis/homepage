@@ -35,21 +35,20 @@ order: 0
 
 ### Machine-learning engineer, Cyber Core Co., LTd., Japan
 * Time: Jun 2019 – now
-* Researching on applying Object Detection to Autonomous Cars as an outsource contract
-from Toyota.
+* Researching (reading, implementing, and improving papers) on Deep Learning techniques for outsourcing projects. Customer is [Toyota Research Institute Advanced Development](https://www.tri-ad.global/).
 
 
 ### Data-mining collaborator, VNG corporation, Vietnam
 * Time: Jun 2018 – May 2019
 * Conducting projects related to Deep Learning to create proxy services in order to enhance
-users’ experience on Zalo (the biggest Vietnamese social networking).
+users’ experience on [Zalo](https://oa.zaloapp.com/home/) (the biggest Vietnamese social networking).
 
 
 ------
 ## Honors
 
 ### Scholarships
-[Panasonic Vietnam](https://www.panasonic.com/vn/en/) (Sep 2018), [e-Silicon Vietnam](https://www.esilicon.com/) (Dec 2017), [Kanden-SS](https://kanden-sys.jp/) (Sep 2017, Sep 2019), and [Odon Vallet](https://rvn-vallet.org/) (Aug 2015, Sep 2019).
+[Odon Vallet](https://rvn-vallet.org/) (Sep 2019, Aug 2015), [Kanden-SS](https://kanden-sys.jp/) (Sep 2019, Sep 2017), [Panasonic Vietnam](https://www.panasonic.com/vn/en/) (Sep 2018), and [e-Silicon Vietnam](https://www.esilicon.com/) (Dec 2017).
 
 ### Honor class (Jun 2016)
 Be elected to the Honor class of Electronics & Telecommunications, Ho Chi Minh city University of Technology, with the highest position.
@@ -61,13 +60,13 @@ Second prize of the National Excellent Student in Physics, organized by the Mini
 Be elected as one of 40 students to join the contest for selecting Vietnam team joining the International Physical Olympics (IPhO-2015), organized by the Ministry of Education Training, Vietnam.
 
 ### Southern Olympiad 30/4 (Apr 2014)
-Gold medal of the Southern Olympiad 30/4 in Physics, organized by the Department of Education Training, Ho Chi Minh city, Vietnam.
+Gold medal of the [Southern Olympiad 30/4](https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_thi_Olympic_truy%E1%BB%81n_th%E1%BB%91ng_30_th%C3%A1ng_4) in Physics, organized by the Department of Education Training, Ho Chi Minh city, Vietnam.
 
 ### City Excellent Student (Mar 2014)
 First prize of the Excellent Student in Physics, organized by the Department of Education Training, Ho Chi Minh city, Vietnam.
 
 ### Southern Olympiad 30/4 (Apr 2013)
-Gold medal of the Southern Olympiad 30/4 in Physics, organized by the Department of Education Training, Ho Chi Minh city, Vietnam.
+Gold medal of the [Southern Olympiad 30/4](https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_thi_Olympic_truy%E1%BB%81n_th%E1%BB%91ng_30_th%C3%A1ng_4) in Physics, organized by the Department of Education Training, Ho Chi Minh city, Vietnam.
 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
