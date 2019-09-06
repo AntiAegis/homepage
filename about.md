@@ -11,6 +11,7 @@ order: 0
 
 * Full name: Thuy Nguyen Chinh (first, last, middle)
 * Location: Ho Chi Minh city, Vietnam
+* Research interest: My field of interest is applying Deep Learning/Machine Learning techniques to solve Computer Vision problems, including Image Forensics, Object Detection, Image Segmentation, Scene Parsing, Object Tracking, and Biometrics.
 
 
 ------
