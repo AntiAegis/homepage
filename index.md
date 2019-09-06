@@ -8,6 +8,6 @@
 layout: home
 ---
 
-I am Thuy Nguyen-Chinh (first, last, and middle name) from Ho Chi Minh city, Vietnam. I have recently received my bachelor degree with honor program in Electrical and Electronics Engineering at the Ho Chi Minh city University of Technology.
+I am Thuy Nguyen Chinh (first, last, and middle name) from Ho Chi Minh city, Vietnam. I have recently received my bachelor degree with honor program in Electrical and Electronics Engineering at the Ho Chi Minh city University of Technology.
 
 Currently, I am working for companies, applying Deep Learning to solve Computer Vision problems. Besides, I also take part in research group at the university with my professor ([Prof. Thuong Le Tien](https://sites.google.com/site/thuongtienle/)). My field of interest is Object Detection, Image Segmentation, Scene Parsing, Object Tracking, and Biometrics.

@@ -40,14 +40,6 @@ order: 0
 ## Experience
 
 
-### Data-mining collaborator, VNG corporation, Vietnam
-
-* Time: Jun 2018 – May 2019
-
-* Conducting projects related to Deep Learning to create proxy services in order to enhance
-users’ experience on Zalo (the biggest Vietnamese social networking).
-
-
 ### Machine-learning engineer, Cyber Core Co., LTd., Japan
 
 * Time: Jun 2019 – now
@@ -56,11 +48,19 @@ users’ experience on Zalo (the biggest Vietnamese social networking).
 from Toyota.
 
 
+### Data-mining collaborator, VNG corporation, Vietnam
+
+* Time: Jun 2018 – May 2019
+
+* Conducting projects related to Deep Learning to create proxy services in order to enhance
+users’ experience on Zalo (the biggest Vietnamese social networking).
+
+
 ------
 ## Honors
 
 ### Scholarships
-Panasonic Vietnam (Sep 2018), e-Silicon Vietnam (Dec 2017), Kanden-SS (Sep 2017, Sep 2019), and Odon Vallet (Aug 2015, Sep 2019).
+[Panasonic Vietnam](https://www.panasonic.com/vn/en/) (Sep 2018), [e-Silicon Vietnam](https://www.esilicon.com/) (Dec 2017), [Kanden-SS](https://kanden-sys.jp/) (Sep 2017, Sep 2019), and [Odon Vallet](https://rvn-vallet.org/) (Aug 2015, Sep 2019).
 
 ### Honor class (Jun 2016)
 Be elected to the Honor class of Electronics & Telecommunications, Ho Chi Minh city University of Technology, with the highest position.
