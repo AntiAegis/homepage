@@ -10,7 +10,6 @@ order: 0
 ## Personal information
 
 * Full name: Thuy Nguyen Chinh (first, last, middle)
-
 * Location: Ho Chi Minh city, Vietnam
 
 
@@ -19,20 +18,14 @@ order: 0
 
 
 ### Ho Chi Minh city University of Technology, Vietnam
-
 * Time: Sep 2015 – Jun 2019
-
 * Bachelor of Engineering in Electrical and Electronics Engineering
-
 * GPA: 8.9/10.0 (Honor program)
 
 
 ### Ho Chi Minh city University of Technology, Vietnam
-
 * Time: Feb 2019 – now
-
 * Master of Engineering in Electrical and Electronics Engineering (Preemption registration)
-
 * Current GPA: 9.3/10.0
 
 
@@ -41,17 +34,13 @@ order: 0
 
 
 ### Machine-learning engineer, Cyber Core Co., LTd., Japan
-
 * Time: Jun 2019 – now
-
 * Researching on applying Object Detection to Autonomous Cars as an outsource contract
 from Toyota.
 
 
 ### Data-mining collaborator, VNG corporation, Vietnam
-
 * Time: Jun 2018 – May 2019
-
 * Conducting projects related to Deep Learning to create proxy services in order to enhance
 users’ experience on Zalo (the biggest Vietnamese social networking).
 
