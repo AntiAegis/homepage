@@ -11,7 +11,7 @@ order: 1
 *Conducted at Cyber Core when I were a machine-learning engineer*
 * **Time**: Jun 2019 -- now
 * **Role**: Member of a team of 6 members, in which, I were responsible for reading and implementing recent papers.
-* **Description**: We have researched techniques to compress a powerful network to a tiny one with 8% of the original GFLOPs without sacrificing the original accuracy. This project is a contract between Cyber Core and Toyota Research Institute Advanced Development for building a module in autonomous cars.
+* **Description**: We have researched techniques to compress a powerful network to a tiny one with 8% of the original GFLOPs without sacrificing the original accuracy. This project is a contract between [Cyber Core](http://cybercore.co.jp/) and [Toyota Research Institute Advanced Development](https://www.tri-ad.global/) for building a module in autonomous cars.
 * **Result**: Network architecture was designed that meets two criteria of GFLOPs and accuracy. A final quantization step is being conducted.
 
 ------
@@ -41,7 +41,7 @@ for overcoming data imbalance.
 
 ------
 ## Face Attendance Checking System
-[https://github.com/AntiAegis/Face-Attendance-System](https://github.com/AntiAegis/Face-Attendance-System)
+[https://github.com/thuyngch/Face-Attendance-System](https://github.com/thuyngch/Face-Attendance-System)
 * **Time**: Sep 2018 – Nov 2018
 * **Role**: Leader of a team with 6 members.
 * **Description**: My team had designed an Attendance Checking application using face to distinguish individuals.
@@ -58,7 +58,7 @@ also accurate at 96.5%.
 
 ------
 ## Image Forgery Detection using Deep Learning
-[https://github.com/AntiAegis/Image-Forgery-using-Deep-Learning](https://github.com/AntiAegis/Image-Forgery-using-Deep-Learning)
+[https://github.com/thuyngch/Image-Forgery-using-Deep-Learning](https://github.com/thuyngch/Image-Forgery-using-Deep-Learning)
 * **Time**: Jun 2018 – Nov 2018
 * **Role**: Leader of a team with 3 members.
 * **Description**: This was a research contract with HCMUT. My team had researched on Deep Learning techniques applied for Image Forgery Detection problem.
@@ -66,7 +66,7 @@ also accurate at 96.5%.
 
 ------
 ## Event Information Extraction from Flyers
-[https://github.com/AntiAegis/Event-info-extraction-from-flyers](https://github.com/AntiAegis/Event-info-extraction-from-flyers)
+[https://github.com/thuyngch/Event-info-extraction-from-flyers](https://github.com/thuyngch/Event-info-extraction-from-flyers)
 * **Time**: Sep 2017 – Oct 2017
 * **Role**: Algorithm development.
 * **Description**: This was a project with 2 classmates in the course ”Digital Image Processing”. Our work was reading a paper from the Standford university and then realizing it into code.
@@ -74,7 +74,7 @@ also accurate at 96.5%.
 
 ------
 ## Iris Recognition
-[https://github.com/AntiAegis/Iris-Recognition](https://github.com/AntiAegis/Iris-Recognition)
+[https://github.com/thuyngch/Iris-Recognition](https://github.com/thuyngch/Iris-Recognition)
 * **Time**: Jun 2017 – Dec 2017
 * **Role**: Leader of a team with 6 members.
 * **Description**: My team had conducted a research on Iris Recognition to recognize identities of people by using their iris images.

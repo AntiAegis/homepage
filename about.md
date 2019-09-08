@@ -34,15 +34,16 @@ order: 0
 ## Experience
 
 
-### Machine-learning engineer, Cyber Core Co., LTd., Japan
+### Machine-learning engineer, [Cyber Core Co., LTd.](http://cybercore.co.jp/), Japan
+* Full-time position
 * Time: Jun 2019 – now
 * Researching (reading, implementing, and improving papers) on Deep Learning techniques for outsourcing projects. Customer is [Toyota Research Institute Advanced Development](https://www.tri-ad.global/).
 
 
-### Data-mining collaborator, VNG corporation, Vietnam
+### Data-mining collaborator, [VNG corporation](https://www.vng.com.vn/), Vietnam
+* Part-time position
 * Time: Jun 2018 – May 2019
-* Conducting projects related to Deep Learning to create proxy services in order to enhance
-users’ experience on [Zalo](https://oa.zaloapp.com/home/) (the biggest Vietnamese social networking).
+* Conducting projects related to Deep Learning to create proxy services in order to enhance users’ experience on [Zalo](https://oa.zaloapp.com/home/) (a group inside VNG corporation, and also the biggest Vietnamese social networking).
 
 
 ------
