@@ -7,7 +7,7 @@ ref: publications
 order: 2
 ---
 
-[1] Hanh Phan-Xuan, Thuong Le-Tien, **Thuy Nguyen-Chinh**, Thien Do-Tieu, and Qui Nguyen-Van,
+[1] Hanh Phan-Xuan, Thuong Le-Tien, **Thuy Nguyen-Chinh**, Thien Do-Tieu, and Qui Nguyen-Van, Tuan Nguyen-Thanh,
 *“Preserving Spatial Information to Enhance Performance of Image Forgery Classification,”*
 (accepted) International Conference on Advanced Technologies for Communications, Ha Noi, Vietnam, Oct 2019.
 
