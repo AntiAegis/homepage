@@ -6,6 +6,7 @@ permalink: /publications.html
 ref: publications
 order: 2
 ---
+Please visit my [Google Scholar](https://scholar.google.com/citations?user=6qqvTuQAAAAJ&hl=en&oi=sra) for latest publications.
 
 [1] Hanh Phan-Xuan, Thuong Le-Tien, **Thuy Nguyen-Chinh**, Thien Do-Tieu, and Qui Nguyen-Van, Tuan Nguyen-Thanh,
 *“Preserving Spatial Information to Enhance Performance of Image Forgery Classification,”*
