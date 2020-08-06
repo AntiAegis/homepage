@@ -11,7 +11,7 @@ order: 0
 
 * Full name: Thuy Nguyen Chinh (first, last, middle)
 * Location: Ho Chi Minh city, Vietnam
-* Research interest: My field of interest is applying Deep Learning/Machine Learning techniques to solve Computer Vision problems, including Image Forensics, Object Detection, Image Segmentation, Scene Parsing, Object Tracking, and Biometrics.
+* Research interest: My field of interest is applying Deep Learning/Machine Learning techniques to solve Computer Vision problems, including Object Detection, Image Segmentation, Object Tracking, Image Forensics, and Biometrics.
 
 
 ------
@@ -23,21 +23,27 @@ order: 0
 * Bachelor of Engineering in Electrical and Electronics Engineering
 * GPA: 8.9/10.0 (Honor program)
 
-
+<!---
 ### Ho Chi Minh city University of Technology, Vietnam
 * Time: Feb 2019 – now
 * Master of Engineering in Electrical and Electronics Engineering (Preemption registration)
 * Current GPA: 9.3/10.0
-
+-->
 
 ------
 ## Experience
 
 
+### Project manager, [Cyber Core Co., LTd.](http://cybercore.co.jp/), Japan
+* Full-time position
+* Time: Jun 2020 – now
+* Researching on Deep Learning techniques for Computer Vision problems, writing technical proposals, guiding other members, and planning work.
+
+
 ### Machine-learning engineer, [Cyber Core Co., LTd.](http://cybercore.co.jp/), Japan
 * Full-time position
-* Time: Jun 2019 – now
-* Researching (reading, implementing, and improving papers) on Deep Learning techniques for outsourcing projects. Customer is [Toyota Research Institute Advanced Development](https://www.tri-ad.global/).
+* Time: Jun 2019 – May 2020
+* Researching (reading, implementing, and improving papers) on Deep Learning techniques for Computer Vision problems.
 
 
 ### Data-mining collaborator, [VNG corporation](https://www.vng.com.vn/), Vietnam
