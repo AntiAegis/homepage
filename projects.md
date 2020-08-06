@@ -7,12 +7,51 @@ ref: projects
 order: 1
 ---
 
+
+## 3D Dangerous Object Detection using Milliwave Radar
+*Conducted at CyberCore when I were a project manager*
+* **Time**: Jun 2020 -- now
+* **Role**: Leader of a team with 6 members.
+* **Description**: Cooperate with [Taiyo Yuden](https://www.yuden.co.jp/eu/) to develop a security product for early alert at airports. It uses a network of various milliwave radars to detect dangerous objects (e.g., knife, gun) inside clothes.
+* **Result**: In progress.
+
+
+------
+## Waymo Open Dataset Challenge 2020
+[https://github.com/thuyngch/DSTNet](https://github.com/thuyngch/DSTNet)
+
+*Conducted at CyberCore when I were a machine-learning engineer*
+* **Time**: Apr 2020 -- May 2020
+* **Role**: Leader of a team with 3 members.
+* **Description**: We participated the challenge as a company team. The problem is detecting and tracking objects (e.g., car, pedestrian, and cyclist) on the road, which is systematically a visual module in autonomous-driving vehicles.
+* **Result**: Rank 5th in [2D-Tracking](https://waymo.com/open/challenges/2d-tracking/) and Rank 10th in [2D-Detection](https://waymo.com/open/challenges/2d-detection).
+
+
+------
+## Out-of-distribution Object Detection
+*Conducted at CyberCore when I were a machine-learning engineer*
+* **Time**: Jan 2020 -- Mar 2020
+* **Role**: Major contributor of a team of 4 members, in which, I were responsible for reading, implementing, and improving SOTA papers.
+* **Description**: We have researched techniques to make a network being able to detect unknown objects (not seen in training set and may be harmful if being detected wrongly). This project is a contract between [CyberCore](http://cybercore.co.jp/) and [Toyota Research Institute Advanced Development](https://www.tri-ad.global/) for building a module in autonomous cars.
+* **Result**: The project was passed the PoC phase.
+
+
+------
 ## Object-Detection Network Compression
 *Conducted at Cyber Core when I were a machine-learning engineer*
-* **Time**: Jun 2019 -- now
-* **Role**: Member of a team of 6 members, in which, I were responsible for reading and implementing recent papers.
-* **Description**: We have researched techniques to compress a powerful network to a tiny one with 8% of the original GFLOPs without sacrificing the original accuracy. This project is a contract between [Cyber Core](http://cybercore.co.jp/) and [Toyota Research Institute Advanced Development](https://www.tri-ad.global/) for building a module in autonomous cars.
-* **Result**: Network architecture was designed that meets two criteria of GFLOPs and accuracy. A final quantization step is being conducted.
+* **Time**: Jun 2019 -- Dec 2019
+* **Role**: Member of a team of 6 members, in which, I were responsible for reading and implementing SOTA papers.
+* **Description**: We had researched techniques to compress a powerful network to a tiny one with 8% of the original GFLOPs without sacrificing the original accuracy. This project is a contract between [CyberCore](http://cybercore.co.jp/) and [Toyota Research Institute Advanced Development](https://www.tri-ad.global/) for building a module in autonomous cars.
+* **Result**: The project was finalized and delivered to Toyota.
+
+------
+## Vehicle Management System
+*Conducted personally*
+* **Time**: Aug 2019 -- Dec 2019
+* **Role**: Leader of a team with 4 members. I designed system architecture and was particularly responsible for AI core.
+* **Description**: We had built a system to manage in/out information (vehicle image, licence plate, in-time, out-time, etc.) of vehicles in the Unilever factory.
+* **Result**: The project was finalized and delivered to [Unilever Vietnam](https://www.unilever.com.vn/). The system has been deployed live at Unilever factory in Cu Chi district, HoChiMinh city.
+
 
 ------
 ## Image Forgery Classification and Segmentation: A Unified Deep-Learning Approach
