@@ -10,7 +10,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=6qqvT
 
 [1] Hanh Phan-Xuan, Thuong Le-Tien, **Thuy Nguyen-Chinh**, Thien Do-Tieu, and Qui Nguyen-Van, Tuan Nguyen-Thanh,
 *“Preserving Spatial Information to Enhance Performance of Image Forgery Classification,”*
-(accepted) International Conference on Advanced Technologies for Communications, Ha Noi, Vietnam, Oct 2019.
+International Conference on Advanced Technologies for Communications, Ha Noi, Vietnam, Oct 2019.
 
 [2] Thuong Le-Tien, Hanh Phan-Xuan, **Thuy Nguyen-Chinh**, and Thien Do-Tieu,
 *“Image Forgery Detection: A Low-Computational Cost and Effective Data-Driven Model,”*
