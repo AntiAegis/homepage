@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Resume
+title: CV
 tagline: 
 permalink: /resume.html
-ref: resume
+ref: CV
 order: 3
 ---
 
