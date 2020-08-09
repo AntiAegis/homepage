@@ -24,7 +24,7 @@ Currently, I am working for companies, applying Deep Learning to solve Computer 
 ### Ho Chi Minh city University of Technology, Vietnam
 * Time: Sep 2015 – Jun 2019
 * Bachelor of Engineering in Electrical and Electronics Engineering
-* GPA: 8.9/10.0 (Honor program)
+* GPA: 8.9/10.0  (Top-1 GPA in the Honor program of Telecommunications Engineering)
 
 <!---
 ### Ho Chi Minh city University of Technology, Vietnam
