@@ -7,13 +7,39 @@ ref: projects
 order: 1
 ---
 
+## Transformer-based Visual Perception
+*Conducted at CyberCore when I were a project manager*
+* **Time**: Sep 2020 -- now
+* **Role**: Leader of a team with 3 members.
+* **Description**: Research on (Multi-head attention) Transformer-based methods for Object Detection and Multiple Object Tracking problems, benchmarked on Autonomous Driving datasets.
+* **Result**: In progress.
 
+
+------
+## Line detection and segmentation
+*Conducted at CyberCore when I were a project manager*
+* **Time**: Jun 2020 -- now
+* **Role**: Leader of a team with 3 members.
+* **Description**: Cooperate with [Toda Construction](https://www.toda.co.jp/english/) to develop a portable device for verifying steel structure in construction. We design a fast and robust framework for processing Full-HD images on CPU with 2-10 FPS.
+* **Result**: In progress.
+
+
+------
+## Zalo AI challenge 2020
+*Conducted at CyberCore when I were a project manager*
+* **Time**: Nov 2020 -- Dec 2020
+* **Role**: Leader of a team with 4 members.
+* **Description**: We participated the challenge as a company team. The problem is detecting traffic signs on the road, which is systematically a visual module in autonomous-driving vehicles.
+* **Result**: Rank 3rd in the [Traffic Sign Detection track](https://challenge.zalo.ai/portal/traffic-sign-detection/final-leaderboard).
+
+
+------
 ## 3D Dangerous Object Detection using Milliwave Radar
 *Conducted at CyberCore when I were a project manager*
 * **Time**: Jun 2020 -- now
 * **Role**: Leader of a team with 6 members.
 * **Description**: Cooperate with [Taiyo Yuden](https://www.yuden.co.jp/eu/) to develop a security product for early alert at airports. It uses a network of various milliwave radars to detect dangerous objects (e.g., knife, gun) inside clothes.
-* **Result**: In progress.
+* **Result**: The project is postponed due to the impact of COVID-19.
 
 
 ------
