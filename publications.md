@@ -8,6 +8,10 @@ order: 2
 ---
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=6qqvTuQAAAAJ&hl=en&oi=sra) for latest publications.
 
+* **Thuy Nguyen-Chinh**, Tuan N. Tang, Nam LH. Phan, Chuong H. Nguyen, Masayuki Yamazaki, Masao Yamanaka,
+*"1st Place Solution for YouTubeVOS Challenge 2021: Video Instance Segmentation,"*
+Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) on Youtube-VOS, Virtual, Jun 19-25, 2021.
+
 * Chuong H. Nguyen, **Thuy Nguyen-Chinh**, Anh H. Vo, and Yamazaki Masayuki,
 *"Single Stage Class Agnostic Common Object Detection: A Simple Baseline,"*
 International Conference on Pattern Recognition Applications and Methods, Online streaming, Feb 4-6, 2021.
