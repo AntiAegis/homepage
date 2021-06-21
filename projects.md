@@ -7,26 +7,27 @@ ref: projects
 order: 1
 ---
 
-## Transformer-based Visual Perception
-*Conducted at CyberCore when I were a project manager*
-* **Time**: Sep 2020 -- now
-* **Role**: Leader of a team with 3 members.
-* **Description**: Research on (Multi-head attention) Transformer-based methods for Object Detection and Multiple Object Tracking problems, benchmarked on Autonomous Driving datasets.
-* **Result**: In progress.
+
+## Video Instance Segmentation (CVPRW)
+*Conducted at CyberCore when I were a technical project manager*
+* **Time**: Apr 2021 -- Jun 2021
+* **Role**: Leader of a team with 4 members.
+* **Description**: We participated the challenge as a company team. The problem is simultaneously detecting, segmenting, and tracking visual objects. Our solution is unifying the three tasks into a single model.
+* **Result**: 1st rank in the [challenge](https://youtube-vos.org/challenge/2021/leaderboard/) [[Paper link](https://arxiv.org/pdf/2106.06649.pdf)] [[Video link](https://www.youtube.com/watch?v=GNFIGm5zE-k)].
 
 
 ------
-## Line detection and segmentation
-*Conducted at CyberCore when I were a project manager*
-* **Time**: Jun 2020 -- now
+## Transformer-based Visual Perception
+*Conducted at CyberCore when I were a technical project manager*
+* **Time**: Sep 2020 -- Mar 2021
 * **Role**: Leader of a team with 3 members.
-* **Description**: Cooperate with [Toda Construction](https://www.toda.co.jp/english/) to develop a portable device for verifying steel structure in construction. We design a fast and robust framework for processing Full-HD images on CPU with 2-10 FPS.
-* **Result**: In progress.
+* **Description**: Research on (Multi-head attention) Transformer-based methods for Object Detection and Multiple Object Tracking problems, benchmarked on Autonomous Driving datasets.
+* **Result**: Delivered to customer.
 
 
 ------
 ## Zalo AI challenge 2020
-*Conducted at CyberCore when I were a project manager*
+*Conducted at CyberCore when I were a technical project manager*
 * **Time**: Nov 2020 -- Dec 2020
 * **Role**: Leader of a team with 4 members.
 * **Description**: We participated the challenge as a company team. The problem is detecting traffic signs on the road, which is systematically a visual module in autonomous-driving vehicles.
@@ -34,8 +35,17 @@ order: 1
 
 
 ------
+## Line detection and segmentation
+*Conducted at CyberCore when I were a technical project manager*
+* **Time**: Jun 2020 -- Nov 2020
+* **Role**: Leader of a team with 3 members.
+* **Description**: Cooperate with [Toda Construction](https://www.toda.co.jp/english/) to develop a portable device for verifying steel structure in construction. We design a fast and robust framework for processing Full-HD images on CPU with 2-10 FPS.
+* **Result**: Delivered to customer.
+
+
+------
 ## 3D Dangerous Object Detection using Milliwave Radar
-*Conducted at CyberCore when I were a project manager*
+*Conducted at CyberCore when I were a technical project manager*
 * **Time**: Jun 2020 -- now
 * **Role**: Leader of a team with 6 members.
 * **Description**: Cooperate with [Taiyo Yuden](https://www.yuden.co.jp/eu/) to develop a security product for early alert at airports. It uses a network of various milliwave radars to detect dangerous objects (e.g., knife, gun) inside clothes.
