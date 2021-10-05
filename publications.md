@@ -10,7 +10,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=6qqvT
 
 * Chuong H. Nguyen, **Thuy Nguyen-Chinh**, Tuan N. Tang, Nam LH. Phan,
 *"Improving Object Detection by Label Assignment Distillation,"*
-Arxiv, Aug 24, 2021.
+accepted to WACV2022, Aug 24, 2021.
 
 * **Thuy Nguyen-Chinh**, Tuan N. Tang, Nam LH. Phan, Chuong H. Nguyen, Masayuki Yamazaki, Masao Yamanaka,
 *"1st Place Solution for YouTubeVOS Challenge 2021: Video Instance Segmentation,"*
